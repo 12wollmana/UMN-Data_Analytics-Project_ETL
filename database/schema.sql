@@ -9,12 +9,12 @@ CREATE TABLE "Players" (
     "height_ft" FLOAT   NOT NULL,
     "weight_lbs" FLOAT   NOT NULL,
     "salary" FLOAT   NOT NULL,
-    "college" VARCHAR(50)   NOT NULL,
-    "high_school" VARCHAR(50)   NOT NULL,
+    "college" VARCHAR(50),
+    "high_school" VARCHAR(50),
     "rating_2K20" INT   NOT NULL,
     "nationality" VARCHAR(50)   NOT NULL,
-    "draft_year" INT   NOT NULL,
-    "draft_peak" INT   NOT NULL,
+    "draft_year" INT,
+    "draft_peak" INT,
     CONSTRAINT "pk_Players" PRIMARY KEY (
         "player_id"
      )
