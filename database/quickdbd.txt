@@ -1,1 +1,50 @@
 # Paste this into quickdatabasediagrams.com
+
+Players
+-
+player_id INT PK
+full_name VARCHAR(50)
+birthday VARCHAR(10)
+height_ft FLOAT
+weight_lbs FLOAT
+salary FLOAT
+college VARCHAR(50)
+high_school VARCHAR(50)
+rating_2K20 INT
+nationality VARCHAR(50)
+draft_year INT
+draft_peak INT
+
+
+Statistics
+-
+player_id INT PK FK - Players.player_id
+games_played INT
+minutes_played FLOAT
+field_goals_made INT
+field_goals_attempts INT
+three_points_made INT
+three_points_attempts INT
+free_throws_made INT
+free_throws_attempted INT
+turnovers INT
+personal_fouls INT
+offensive_rebounds INT
+defensive_rebounds INT
+total_rebounds INT
+assists INT
+steals INT
+blocks INT
+points INT
+
+Team_Players
+-
+team_id INT PK FK >- Teams.team_id
+player_id INT PK FK - Players.player_id
+position VARCHAR(50)
+jersey VARCHAR(2)
+
+Teams
+-
+team_id INT PK
+team_name VARCHAR(50)
