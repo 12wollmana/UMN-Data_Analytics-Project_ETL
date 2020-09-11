@@ -1,4 +1,7 @@
 # NBA 2K20 Player Statistics
+<em>Aaron Wollman, Kelsey Richardson Blackwell, Will Huang</em>
+
+## Description
 This project is to create a production database that contains both real-life and game data for players in NBA2K20.
 
 ## Prerequisites
