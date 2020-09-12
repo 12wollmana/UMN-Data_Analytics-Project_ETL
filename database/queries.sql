@@ -43,7 +43,8 @@ select  players.player_id,
 		teams.team_name,
 		players.salary,
 		team_players.position,
-		team_players.jersey
+		team_players.jersey,
+		teams.team_name
 from team_players
 	join players
 		on (players.player_id = team_players.player_id)
