@@ -1,0 +1,250 @@
+player_id,full_name,birthday,height_ft,weight_lbs,salary,college,high_school,videogame_rating,nationality,draft_year,draft_round
+0,LeBron James,12/30/84,6.66010498687664,250.0,37436858,,St. Vincent St. Mary High School,97,United States,2003,1
+1,Kawhi Leonard,06/29/91,6.594488188976378,230.0,32742000,San Diego State,Martin Luther King High School,97,United States,2011,1
+2,Giannis Antetokounmpo,12/06/94,6.92257217847769,242.0,25842697,,,96,Greece / Nigeria,2013,1
+3,James Harden,08/26/89,6.430446194225722,220.0,38199000,Arizona State,Artesia High School,96,United States,2009,1
+4,Anthony Davis,03/11/93,6.824146981627297,253.0,27093019,Kentucky,Perspectives Charter Academy,94,United States,2012,1
+5,Damian Lillard,07/15/90,6.266404199475065,195.0,29802321,Weber State,Oakland High School,92,United States,2012,1
+6,Joel Embiid,03/16/94,6.988188976377953,250.0,27504630,Kansas,The Rock High School,91,Cameroon,2014,1
+7,Nikola Jokic,02/19/95,6.988188976377953,250.0,27504630,,,90,Serbia,2014,2
+8,Russell Westbrook,11/12/88,6.266404199475065,200.0,38506482,UCLA,Leuzinger High School,90,United States,2008,1
+9,Karl-Anthony Towns,11/15/95,6.988188976377953,248.0,27285000,Kentucky,St. Joseph High School,89,United States / Dominican Republic,2015,1
+10,Jimmy Butler,09/14/89,6.66010498687664,232.0,32742000,Marquette,Tomball High School,88,United States,2011,1
+11,Rudy Gobert,06/26/92,7.086614173228346,245.0,25258427,,,88,France,2013,1
+12,Donovan Mitchell,09/07/96,6.266404199475065,215.0,3635760,Louisville,Brewster Academy,88,United States,2017,1
+13,Kemba Walker,05/08/90,6.069553805774278,184.0,32742000,UConn,Rice High School,88,United States,2011,1
+14,Luka Doncic,02/28/99,6.594488188976378,218.0,7683360,,,87,Slovenia,2018,1
+15,LaMarcus Aldridge,07/19/85,6.92257217847769,265.0,26000000,Texas,Seagoville High School,87,United States,2006,1
+16,Bradley Beal,06/28/93,6.266404199475065,207.0,27093018,Florida,Chaminade College Preparatory School,87,United States,2012,1
+17,DeMar DeRozan,08/07/89,6.594488188976378,220.0,27739975,USC,Compton High School,87,United States,2009,1
+18,CJ McCollum,09/19/91,6.266404199475065,190.0,27556959,Lehigh,Glen Oak High School,87,United States,2013,1
+19,Kristaps Porzingis,08/02/95,7.2506561679790025,240.0,27285000,,,87,Latvia,2015,1
+20,Pascal Siakam,04/02/94,6.758530183727034,230.0,2351838,New Mexico State,God's Academy,87,Cameroon,2016,1
+21,Ben Simmons,07/20/96,6.824146981627297,230.0,8113929,LSU,Montverde Academy,87,Australia,2016,1
+22,De'Aaron Fox,12/20/97,6.266404199475065,185.0,6392760,Kentucky,Cypress Lakes High School,86,United States,2017,1
+23,Devin Booker,10/30/96,6.496062992125984,206.0,27285000,Kentucky,Moss Point High School,86,United States,2015,1
+24,Andre Drummond,08/10/93,6.92257217847769,279.0,27093018,UConn,St. Thomas More Prep,86,United States,2012,1
+25,Draymond Green,03/04/90,6.594488188976378,230.0,18539130,Michigan State,Saginaw High School,86,United States,2012,2
+26,Jrue Holiday,06/12/90,6.332020997375328,205.0,26131111,UCLA,Campbell Hall School,86,United States,2009,1
+27,Nikola Vucevic,10/24/90,6.988188976377953,260.0,28000000,USC,Stoneridge Prep,86,Switzerland / Montenegro,2011,1
+28,Jayson Tatum,03/03/98,6.66010498687664,208.0,7830000,Duke,Chaminade College Preparatory School,85,United States,2017,1
+29,Trae Young,09/19/98,6.167979002624672,180.0,6273000,Oklahoma,Norman High School,85,United States,2018,1
+30,Eric Bledsoe,12/09/89,6.069553805774278,205.0,15625000,Kentucky,Parker High School,85,United States,2010,1
+31,Clint Capela,05/18/94,6.824146981627297,240.0,16896552,,INSEP Academy,85,Switzerland,2014,1
+32,Tobias Harris,07/15/92,6.758530183727034,235.0,32742000,Tennessee,Half Hollow Hills West High School,85,United States,2011,1
+33,Al Horford,06/03/86,6.824146981627297,245.0,28000000,Florida,Grand Ledge High School,85,Dominican Republic / United States,2007,1
+34,Zach LaVine,03/10/95,6.430446194225722,208.0,19500000,UCLA,Bothell High School,85,United States,2014,1
+35,Kyle Lowry,03/25/86,6.069553805774278,196.0,33296296,Villanova,Cardinal Dougherty High School,85,United States,2006,1
+36,Khris Middleton,08/12/91,6.66010498687664,222.0,30603448,Texas A&M,Porter-Gaud High School,85,United States,2012,2
+37,Chris Paul,05/06/85,6.003937007874016,175.0,38506482,Wake Forest,West Forsyth High School,85,United States,2005,1
+38,Buddy Hield,12/17/93,6.332020997375328,220.0,4861207,Oklahoma,Sunrise Christian Academy,84,Bahamas,2016,1
+39,Kyle Kuzma,07/24/95,6.758530183727034,220.0,1974600,Utah,Rise Academy,84,United States,2017,1
+40,Jamal Murray,02/23/97,6.332020997375328,207.0,4444746,Kentucky,Athlete Institute Prep,84,Canada,2016,1
+41,Bojan Bogdanovic,04/18/89,6.66010498687664,216.0,17000000,,,83,Bosnia and Herzegovina / Croatia,2011,2
+42,Malcolm Brogdon,12/11/92,6.430446194225722,229.0,20000000,Virginia,Greater Atlanta Christian School,83,United States,2016,2
+43,Danilo Gallinari,08/08/88,6.824146981627297,233.0,22615559,,,83,Italy,2008,1
+44,Montrezl Harrell,01/26/94,6.66010498687664,240.0,6000000,Louisville,Hargrave Military Academy ,83,United States,2015,2
+45,Kevin Love,09/07/88,6.824146981627297,251.0,28942830,UCLA,Lake Oswego High School,83,United States,2008,1
+46,Lauri Markkanen,05/22/97,6.988188976377953,227.0,5300400,Arizona,Helsinki Basketball Academy,83,Finland,2017,1
+47,Julius Randle,11/29/94,6.758530183727034,250.0,18000000,Kentucky,Prestonwood Christian Academy,83,United States,2014,1
+48,Steven Adams,07/20/93,6.988188976377953,265.0,25842697,Pittsburgh,Scots College,82,New Zealand,2013,1
+49,Spencer Dinwiddie,04/06/93,6.496062992125984,210.0,10605600,Colorado,William Howard Taft High School,82,United States,2014,2
+50,Paul Millsap,02/10/85,6.66010498687664,246.0,30350000,Louisiana Tech,Grambling Laboratory High School,82,United States,2017,2
+51,Marcus Smart,03/06/94,6.332020997375328,220.0,12553571,Oklahoma State,Marcus High School,82,United States,2014,1
+52,Myles Turner,03/24/96,6.92257217847769,250.0,18000000,Texas,Trinity High School,82,United States,2015,1
+53,Serge Ibaka,09/18/89,6.824146981627297,235.0,23271604,,,81,Republic of the Congo / Spain,2008,1
+54,Rudy Gay,08/17/86,6.66010498687664,240.0,14500000,UConn,Archbishop Spalding High School,81,United States,2006,1
+55,Aaron Gordon,09/16/95,6.758530183727034,220.0,19863636,Arizona,Archbishop Mitty High School,81,United States,2014,1
+56,Brandon Ingram,09/02/97,6.758530183727034,190.0,7265485,Duke,Kinston High School,81,United States,2016,1
+57,DeAndre Jordan,07/21/88,6.92257217847769,265.0,9881598,Texas A&M,Christian Life Center,81,United States,2008,2
+58,Domantas Sabonis,05/03/96,6.92257217847769,240.0,3529554,Gonzaga,,81,United States / Lithuania,2016,1
+59,Jonas Valanciunas,05/06/92,6.988188976377953,265.0,16000000,,,81,Lithuania,2011,1
+60,Hassan Whiteside,06/13/89,7.086614173228346,265.0,27093018,Marshall,The Patterson School,81,United States,2010,2
+61,Derrick Rose,10/04/88,6.266404199475065,200.0,7317074,Memphis,Simeon Career Academy ,80,United States,2008,1
+62,Robert Covington,12/14/90,6.758530183727034,225.0,11301219,Tennessee State,Proviso West High School,80,United States,2013,0
+63,Derrick Favors,07/15/91,6.824146981627297,265.0,17650000,Georgia Tech,South Atlanta High School ,80,United States,2010,1
+64,Gordon Hayward,03/23/90,6.66010498687664,225.0,32700690,Butler,Brownsburg High School,80,United States,2010,1
+65,Enes Kanter,05/20/92,6.92257217847769,250.0,4767000,,Stoneridge Prep,80,Switzerland / Turkey,2011,1
+66,JJ Redick,06/24/84,6.332020997375328,200.0,13486300,Duke,Cave Spring High School,80,United States,2006,1
+67,Josh Richardson,09/15/93,6.496062992125984,200.0,10116576,Tennessee,Edmond Santa Fe High School,80,United States,2015,2
+68,TJ Warren,09/05/93,6.66010498687664,215.0,11060000,NC State,Word of God Christian Academy,80,United States,2014,1
+69,Ja Morant,08/10/99,6.266404199475065,175.0,8730240,Murray State,Crestwood High School,79,United States,2019,1
+70,Bam Adebayo,07/18/97,6.824146981627297,255.0,3454080,Kentucky,High Point Christian Academy,79,United States,2017,1
+71,Jarrett Allen,04/20/98,6.92257217847769,237.0,2376840,Texas,St. Stephen's Episcopal School,79,United States,2017,1
+72,Lonzo Ball,10/27/97,6.496062992125984,190.0,8719320,UCLA,Chino Hills High School,79,United States,2017,1
+73,Harrison Barnes,05/30/92,6.66010498687664,225.0,24147727,North Carolina,Ames High School,79,United States,2012,1
+74,Patrick Beverley,07/12/88,6.069553805774278,185.0,12345680,Arkansas,John Marshall Metropolitan High School,79,United States,2009,2
+75,Jaylen Brown,10/24/96,6.594488188976378,220.0,6534829,California,Joseph Wheeler High School,79,United States,2016,1
+76,Willie Cauley-Stein,08/18/93,6.988188976377953,240.0,2177483,Kentucky,Olathe Northwest High School,79,United States,2015,1
+77,Goran Dragic,05/06/86,6.266404199475065,190.0,19217900,,,79,Slovenia,2008,2
+78,Shai Gilgeous-Alexander,07/12/98,6.496062992125984,181.0,3952920,Kentucky,Hamilton Heights Christian Academy,79,Canada,2018,1
+79,Gary Harris,09/14/94,6.332020997375328,210.0,17839286,Michigan State,Hamilton Southeastern High School,79,United States,2014,1
+80,Joe Ingles,10/02/87,6.66010498687664,226.0,11454546,,Australian Institute of Sport,79,Australia,2009,0
+81,Jeremy Lamb,05/30/92,6.430446194225722,185.0,10500000,UConn,Norcross High School,79,United States,2012,1
+82,Brook Lopez,04/01/88,6.988188976377953,270.0,12093024,Stanford,San Joaquin Memorial High School,79,United States,2008,1
+83,JaVale McGee,01/19/88,6.988188976377953,270.0,4000000,Nevada,Hales Franciscan,79,United States,2008,1
+84,Mitchell Robinson,04/01/98,7.086614173228346,240.0,1559712,,Chalmette High School,79,United States,2018,2
+85,Terrence Ross,02/05/91,6.594488188976378,206.0,12500000,Washington,Jefferson High School,79,United States,2012,1
+86,Tristan Thompson,03/13/91,6.824146981627297,238.0,18539130,Texas,Findlay College Prep,79,Canada,2011,1
+87,PJ Tucker,05/05/85,6.496062992125984,245.0,8349039,Texas,Enloe High School,79,United States,2006,2
+88,Fred VanVleet,02/25/94,6.003937007874016,195.0,9346153,Wichita State,Auburn High School,79,United States,2006,0
+89,Andrew Wiggins,02/23/95,6.66010498687664,194.0,27504630,Kansas,Huntington Prep,79,Canada,2014,1
+90,Thaddeus Young,06/21/88,6.66010498687664,221.0,12900000,Georgia Tech,Mitchell High School,79,United States,2007,1
+91,RJ Barrett,06/14/00,6.594488188976378,202.0,7839960,Duke,Montverde Academy,78,Canada,2019,1
+92,Ricky Rubio,10/21/90,6.332020997375328,190.0,16200000,,,78,Spain,2009,1
+93,Will Barton,01/06/91,6.496062992125984,190.0,12776786,Memphis,Brewster Academy,78,United States,2012,2
+94,Bogdan Bogdanovic,08/18/92,6.496062992125984,220.0,8529386,,,78,Serbia,2014,1
+95,Jordan Clarkson,06/07/92,6.430446194225722,194.0,13437500,Missouri,Wagner High School,78,United States,2014,2
+96,Evan Fournier,10/29/92,6.594488188976378,205.0,17150000,,,78,France,2012,1
+97,JaMychal Green,06/21/90,6.758530183727034,227.0,4767000,Alabama,St. Jude High School,78,United States,2012,0
+98,Joe Harris,09/06/91,6.496062992125984,218.0,7666667,Virginia,Chelan High School,78,United States,2014,2
+99,Marcus Morris,09/02/89,6.758530183727034,235.0,15000000,Kansas,APEX Academy,78,United States,2011,1
+100,Dejounte Murray,09/19/96,6.430446194225722,175.0,2321735,Washington,Rainier Beach High School,78,United States,2016,1
+101,Larry Nance Jr,01/01/93,6.758530183727034,230.0,12727273,Wyoming,Revere High School,78,United States,2015,1
+102,Kelly Olynyk,04/19/91,6.988188976377953,240.0,12667885,Gonzaga,Kamloops High School,78,Canada,2013,1
+103,Bobby Portis,02/10/95,6.92257217847769,250.0,15000000,Arkansas,Hall High School,78,United States,2015,1
+104,Terry Rozier,03/17/94,6.069553805774278,190.0,19894737,Louisville,Hargrave Military Academy ,78,United States,2015,1
+105,Jeff Teague,06/10/88,6.167979002624672,195.0,19000000,Wake Forest,Pike High School,78,United States,2009,1
+106,Derrick White,07/02/94,6.332020997375328,195.0,1948080,Colorado,Legend High School,78,United States,2017,1
+107,Darius Garland,06/26/00,6.167979002624672,175.0,6400920,Vanderbilt,Brentwood Academy,77,United States,2019,1
+108,De'Andre Hunter,12/01/97,6.594488188976378,225.0,7068360,Virginia,Friends' Central School,77,United States,2019,1
+109,Al-Farouq Aminu,09/21/90,6.758530183727034,220.0,9258000,Wake Forest,Norcross High School,77,United States / Nigeria,2010,1
+110,Malik Beasley,11/26/96,6.430446194225722,195.0,2731713,Florida State,Saint Francis High School,77,United States,2016,1
+111,Nemanja Bjelica,05/09/88,6.824146981627297,235.0,6825000,,,77,Serbia,2010,2
+112,Taj Gibson,06/24/85,6.758530183727034,232.0,9000000,USC,Calvary Christian High School,77,United States,2009,1
+113,Jerami Grant,03/12/94,6.758530183727034,220.0,9346153,Syracuse,DeMatha Catholic High School,77,United States,2014,2
+114,Danny Green,06/22/87,6.496062992125984,215.0,14634147,North Carolina,St. Mary's High School,77,United States,2009,2
+115,Tim Hardaway Jr,03/16/92,6.496062992125984,205.0,20025127,Michigan,Palmetto High School,77,United States,2013,1
+116,Alex Len,06/16/93,7.086614173228346,250.0,4160000,Maryland,Dnipropetrovsk Higher College,77,Ukraine,2013,1
+117,Monte Morris,06/27/95,6.266404199475065,175.0,1588231,Iowa State,Flint Beecher High School,77,United States,2017,2
+118,Nerlens Noel,04/10/94,6.92257217847769,220.0,1882867,Kentucky,Tilton School,77,United States,2013,1
+119,Mason Plumlee,03/05/90,6.92257217847769,235.0,14041096,Duke,Christ School,77,United States,2013,1
+120,Jakob Poeltl,10/15/95,6.988188976377953,240.0,3754885,Utah,,77,Austria,2016,1
+121,Dwight Powell,07/20/91,6.92257217847769,240.0,10259375,Stanford,IMG Academy,77,Canada,2014,2
+122,Taurean Prince,03/22/94,6.66010498687664,220.0,3481985,Baylor,Warren High School,77,United States,2016,1
+123,Dario Saric,04/08/94,6.824146981627297,250.0,3481985,,,77,Croatia,2014,1
+124,Collin Sexton,01/04/99,6.167979002624672,190.0,4764960,Alabama,Pebblebrook High School,77,United States,2018,1
+125,Cody Zeller,10/05/92,6.988188976377953,240.0,14471910,Indiana,Washington High School,77,United States,2013,1
+126,Ivica Zubac,03/18/97,7.086614173228346,240.0,6481482,,,77,Bosnia and Herzegovina / Croatia,2016,2
+127,Jarrett Culver,02/20/99,6.496062992125984,195.0,5813640,Texas Tech,Coronado High School,77,United States,2019,1
+128,Trevor Ariza,06/30/85,6.66010498687664,215.0,12200000,UCLA,Westchester High School,76,United States,2004,2
+129,DJ Augustin,11/10/87,6.003937007874016,183.0,7250000,Texas,Hightower High School,76,United States,2008,1
+130,Davis Bertans,11/12/92,6.824146981627297,225.0,7000000,,,76,Latvia,2011,2
+131,Avery Bradley,11/26/90,6.167979002624672,180.0,6767000,Texas,Findlay College Prep,76,United States,2010,1
+132,Miles Bridges,03/21/98,6.594488188976378,225.0,3755400,Michigan State,Huntington Prep,76,United States,2018,1
+133,Jalen Brunson,08/31/96,6.266404199475065,190.0,1416852,Villanova,Stevenson High School,76,United States,2018,2
+134,Kentavious Caldwell-Pope,02/18/93,6.430446194225722,205.0,8089282,Georgia,Greenville High School,76,United States,2013,1
+135,Jae Crowder,07/06/90,6.496062992125984,235.0,7815533,Marquette,Villa Rica High School,76,United States,2012,2
+136,Gorgui Dieng,01/18/90,6.92257217847769,252.0,16229213,Louisville,Covenant Christian Academy,76,Senegal,2013,1
+137,Rodney Hood,10/20/92,6.66010498687664,205.0,5718000,Duke,Meridian High School,76,United States,2014,1
+138,Kevin Huerter,08/27/98,6.594488188976378,190.0,2636280,Maryland,Shenendehowa High School,76,United States,2018,1
+139,Ersan Ilyasova,05/15/87,6.824146981627297,235.0,7000000,,,76,Turkey,2005,2
+140,Kevin Knox,08/11/99,6.758530183727034,215.0,4380120,Kentucky,Tampa Catholic High School,76,United States,2018,1
+141,Wesley Matthews,10/14/86,6.430446194225722,220.0,2564753,Marquette,James Madison Memorial High School,76,United States,2009,0
+142,Emmanuel Mudiay,03/05/96,6.430446194225722,200.0,1737145,,Grace Preparatory Academy,76,United States / Democratic Republic of the Congo,2015,1
+143,Austin Rivers,08/01/92,6.332020997375328,200.0,2174310,Duke,Winter Park High School,76,United States,2012,1
+144,Rajon Rondo,02/22/86,6.069553805774278,186.0,2564753,Kentucky,Oak Hill Academy,76,United States,2006,1
+145,Landry Shamet,03/13/97,6.430446194225722,190.0,1995120,Wichita State,Park Hill High School,76,United States,2018,1
+146,Daniel Theis,04/04/92,6.66010498687664,243.0,5000000,,,76,Germany,2013,0
+147,Isaiah Thomas,02/07/89,5.741469816272966,185.0,2320044,Washington,South Kent School,76,United States,2011,2
+148,Marvin Williams,06/19/86,6.758530183727034,237.0,14654179,North Carolina,Bremerton High School,76,United States,2005,1
+149,Delon Wright,04/26/92,6.430446194225722,183.0,9473684,Utah,Leuzinger High School,76,United States,2015,1
+150,Coby White,02/16/00,6.430446194225722,185.0,5307120,North Carolina,Greenfield School,76,United States,2019,1
+151,Kent Bazemore,07/01/89,6.430446194225722,200.0,19269663,Old Dominion,Bertie High School,75,United States,2012,0
+152,Marco Belinelli,03/25/86,6.430446194225722,225.0,5846154,,,75,Italy,2007,1
+153,Bismack Biyombo,08/28/92,6.758530183727034,255.0,17000000,,,75,Democratic Republic of the Congo,2011,1
+154,Mikal Bridges,08/30/96,6.594488188976378,210.0,4161000,Villanova,Great Valley High School,75,United States,2018,1
+155,Damyean Dotson,05/06/94,6.496062992125984,210.0,1618520,Houston,Yates High School,75,United States,2017,2
+156,Kris Dunn,03/18/94,6.332020997375328,208.0,5348007,Providence,New London High School,75,United States,2016,1
+157,Bryn Forbes,07/23/93,6.266404199475065,195.0,2875000,Michigan State,JW Sexton High School,75,United States,2016,0
+158,Josh Hart,03/06/95,6.430446194225722,215.0,1934160,Villanova,Sidwell Friends School,75,United States,2017,1
+159,Mario Hezonja,02/25/95,6.66010498687664,220.0,1737145,,,75,Croatia,2015,1
+160,George Hill,05/04/86,6.266404199475065,188.0,10133907,IUPUI,Broad Ripple High School,75,United States,2008,1
+161,Rondae Hollis-Jefferson,01/03/95,6.594488188976378,217.0,2500000,Arizona,Chester High School,75,United States,2015,1
+162,Luke Kennard,06/24/96,6.430446194225722,206.0,3827160,Duke,Franklin High School,75,United States,2017,1
+163,Kyle Korver,03/17/81,6.594488188976378,212.0,6004753,Creighton,Pella High School,75,United States,2003,2
+164,Robin Lopez,04/01/88,6.988188976377953,275.0,4767000,Stanford,San Joaquin Memorial High School,75,United States,2008,1
+165,Trey Lyles,11/05/95,6.824146981627297,235.0,5500000,Kentucky,Arsenal Technical High School,75,Canada / United States,2015,1
+166,TJ McConnell,03/25/92,6.167979002624672,190.0,3500000,Arizona,Chartiers Valley High School,75,United States,2015,0
+167,Malik Monk,02/04/98,6.266404199475065,200.0,4028400,Kentucky,Bentonville High School,75,United States,2017,1
+168,Markieff Morris,09/02/89,6.824146981627297,245.0,3709887,Kansas,APEX Academy,75,United States,2011,1
+169,Shabazz Napier,07/14/91,6.069553805774278,180.0,1845301,UConn,Charlestown High School,75,United States / Puerto Rico,2014,1
+170,Cedi Osman,04/08/95,6.66010498687664,215.0,2907143,,,75,North Macedonia / Turkey,2015,2
+171,Tomas Satoransky,10/30/91,6.594488188976378,210.0,10000000,,,75,Czech Republic,2012,2
+172,Mike Scott,07/16/88,6.66010498687664,237.0,4767000,Virginia,Hargrave Military Academy ,75,United States,2012,2
+173,Kyle Anderson,09/20/93,6.758530183727034,230.0,9073050,UCLA,St. Anthony High School,74,United States,2014,1
+174,Dillon Brooks,01/22/96,6.496062992125984,220.0,1618520,Oregon,Findlay College Prep,74,Canada,2017,2
+175,Pat Connaughton,01/06/93,6.332020997375328,209.0,1723050,Notre Dame,St. John's Prep,74,United States,2015,2
+176,Torrey Craig,12/19/90,6.594488188976378,215.0,2000000,USC Upstate,Great Falls High School,74,United States,2014,0
+177,Seth Curry,08/23/90,6.167979002624672,185.0,7461380,Duke,Charlotte Christian School,74,United States,2013,0
+178,Markelle Fultz,05/29/98,6.332020997375328,200.0,9745200,Washington,DeMatha Catholic High School,74,United States,2017,1
+179,Justin Jackson,03/28/95,6.66010498687664,210.0,3280920,North Carolina,Homeschool Christian Youth Association,74,United States,2017,1
+180,Derrick Jones,02/15/97,6.594488188976378,200.0,1645357,UNLV,Archbishop John Carroll High School,74,United States,2016,0
+181,Cory Joseph,08/20/91,6.266404199475065,200.0,12000000,Texas,Findlay College Prep,74,Canada,2011,1
+182,Maxi Kleber,01/29/92,6.92257217847769,240.0,8000000,,,74,Germany,2014,0
+183,Doug McDermott,01/03/92,6.66010498687664,225.0,7333333,Creighton,Ames High School,74,United States,2014,1
+184,E'Twaun Moore,02/25/89,6.332020997375328,191.0,8664928,Purdue,East Chicago Central High School,74,United States,2011,2
+185,Norman Powell,05/25/93,6.332020997375328,215.0,10116576,UCLA,Lincoln High School ,74,United States,2015,2
+186,Christian Wood,09/27/95,6.824146981627297,214.0,1645357,UNLV,Findlay College Prep,74,United States,2015,0
+187,Jaxson Hayes,05/23/00,6.92257217847769,220.0,4862040,Texas,Moeller High School,74,United States,2019,1
+188,Dwayne Bacon,08/30/95,6.594488188976378,221.0,1618520,Florida State,Oak Hill Academy,73,United States,2017,2
+189,DeAndre Bembry,07/04/94,6.496062992125984,210.0,2603981,Saint Joseph's,St. Patrick High School,73,United States,2016,1
+190,Sterling Brown,02/10/95,6.496062992125984,232.0,1618520,SMU,Proviso East High School,73,United States,2017,2
+191,Alec Burks,07/20/91,6.496062992125984,214.0,2320044,Colorado,Grandview High School,73,United States,2011,1
+192,Alex Caruso,02/28/94,6.430446194225722,186.0,2750000,Texas A&M,A&M Consolidated High School,73,United States,2016,0
+193,James Ennis,07/01/90,6.594488188976378,210.0,1882867,Long Beach State,Ventura High School,73,United States,2013,2
+194,Dorian Finney-Smith,05/04/93,6.66010498687664,220.0,4000000,Florida,I.C. Norcom High School,73,United States,2016,0
+195,Aaron Holiday,09/30/96,6.069553805774278,185.0,2239200,UCLA,Campbell Hall School,73,United States,2018,1
+196,Danuel House,06/07/93,6.594488188976378,215.0,3540000,Texas A&M,Hightower High School,73,United States,2016,0
+197,Tyus Jones,05/10/96,6.167979002624672,196.0,10116000,Duke,Apple Valley High School,73,United States,2015,1
+198,Furkan Korkmaz,06/27/97,6.594488188976378,190.0,1620564,,,73,Turkey,2016,1
+199,Frank Ntilikina,07/28/98,6.496062992125984,200.0,4855800,,,73,Belgium / France,2017,1
+200,David Nwaba,01/14/93,6.332020997375328,219.0,2581965,Cal Poly,University City High School,73,United States,2016,0
+201,Royce O'Neale,06/05/93,6.496062992125984,226.0,1618520,Baylor,Harker Heights High School,73,United States,2015,0
+202,Semi Ojeleye,12/05/94,6.594488188976378,241.0,1618520,SMU,Ottawa High School,73,United States,2017,2
+203,Josh Okogie,09/01/98,6.430446194225722,212.0,2530680,Georgia Tech,Shiloh High School,73,Nigeria / United States,2018,1
+204,Tony Snell,11/10/91,6.594488188976378,213.0,11392857,New Mexico,Martin Luther King High School,73,United States,2013,1
+205,Omari Spellman,07/21/97,6.758530183727034,245.0,1897800,Villanova,MacDuffie School,73,United States,2018,1
+206,Garrett Temple,05/08/86,6.496062992125984,195.0,4767000,LSU,Louisiana State University Laboratory School,73,United States,2009,0
+207,Lonnie Walker,12/14/98,6.430446194225722,205.0,2764200,Miami (Florida),Reading High School,73,United States,2018,1
+208,Brad Wanamaker,07/25/89,6.332020997375328,210.0,1445697,Pittsburgh,Roman Catholic High School for Boys,73,United States,2011,0
+209,Tyler Herro,01/20/00,6.496062992125984,195.0,3640200,Kentucky,Whitnall High School,73,United States,2019,1
+210,Brandon Clarke,09/19/96,6.66010498687664,210.0,2478840,Gonzaga,Desert Vista High School ,73,Canada,2019,1
+211,Nicolo Melli,01/26/91,6.758530183727034,235.0,4102564,,,73,Italy,2013,0
+212,Nassir Little,02/11/00,6.496062992125984,220.0,2105520,North Carolina,Orlando Christian Prep High School,73,United States,2019,1
+213,Donte DiVincenzo,01/31/97,6.332020997375328,203.0,2905800,Villanova,Salesianum School,72,United States,2018,1
+214,Langston Galloway,12/09/91,6.167979002624672,200.0,7333333,Saint Joseph's,Christian Life,72,United States,2014,0
+215,Justin Holiday,04/05/89,6.496062992125984,181.0,4767000,Washington,Campbell Hall School,72,United States,2011,0
+216,Wesley Iwundu,12/20/94,6.594488188976378,195.0,1618520,Kansas State,Spring Westfield High School,72,United States,2017,2
+217,Thon Maker,02/25/97,7.086614173228346,221.0,3569643,,Athlete Institute Prep,72,South Sudan / Australia,2016,1
+218,Rodney McGruder,07/29/91,6.332020997375328,200.0,4807693,Kansas State,Arlington Country Day School ,72,United States,2013,0
+219,Georges Niang,06/17/93,6.66010498687664,230.0,1645357,Iowa State,Tilton School,72,United States,2016,2
+220,Anfernee Simons,06/08/99,6.332020997375328,185.0,2149560,,IMG Academy,72,United States,2018,1
+221,Anthony Tolliver,06/01/85,6.66010498687664,245.0,2854556,Creighton,Kickapoo High School,72,United States,2007,0
+222,Grant Williams,11/30/98,6.594488188976378,236.0,2379840,Tennessee,Providence Day School,72,United States,2019,1
+223,PJ Washington,08/23/98,6.594488188976378,236.0,3831840,Kentucky,Findlay College Prep,72,United States,2019,1
+224,Ryan Arcidiacono,03/26/94,6.266404199475065,208.0,3000000,Villanova,Neshaminy High School,72,United States,2016,0
+225,Goga Bitadze,07/20/99,6.92257217847769,245.0,2816760,,,72,Georgia,2019,1
+226,De'Anthony Melton,05/28/98,6.332020997375328,200.0,1416852,USC,Crespi Carmelite High School,72,United States,2018,2
+227,Matisse Thybulle,03/04/97,6.430446194225722,200.0,2582160,Washington,Eastside Catholic High School,72,United States,2019,1
+228,Cameron Johnson,03/03/96,6.758530183727034,210.0,4033440,North Carolina,Our Lady of the Sacred Heart High School,72,United States,2019,1
+229,Chris Boucher,01/11/93,6.824146981627297,200.0,1588231,Oregon,Alliance Leadership Middle Academy,71,Saint Lucia / Canada,2017,0
+230,Jevon Carter,09/14/95,6.167979002624672,200.0,1416852,West Virginia,Proviso East High School,71,United States,2018,2
+231,Terrance Ferguson,05/17/98,6.594488188976378,190.0,2475840,,Prime Prep Academy,71,United States,2017,1
+232,Treveon Graham,10/28/93,6.430446194225722,225.0,1645357,VCU,St. Mary's Ryken High School,71,United States,2015,0
+233,Frank Jackson,05/04/98,6.266404199475065,205.0,1618520,Duke,Lone Peak High School,71,United States,2017,2
+234,Ben McLemore,02/11/93,6.430446194225722,195.0,2028594,Kansas,Christian Life Center,71,United States,2013,1
+235,Elie Okobo,10/23/97,6.266404199475065,190.0,1416852,,,71,France,2018,2
+236,Jerome Robinson,02/22/97,6.430446194225722,190.0,3567720,Boston College,Broughton High School,71,United States,2018,1
+237,Gary Trent Jr,01/18/99,6.496062992125984,205.0,1416852,Duke,Prolific Prep,71,United States,2018,2
+238,Bruno Fernando,08/15/98,6.824146981627297,240.0,1400000,Maryland,IMG Academy,71,Angola,2019,2
+239,Eric Paschall,11/04/96,6.758530183727034,255.0,898310,Villanova,St. Thomas More Prep,71,United States,2019,2
+240,Darius Bazley,06/12/00,6.66010498687664,208.0,2284800,,Princeton High School,70,United States,2019,1
+241,Tony Bradley,01/08/98,6.92257217847769,248.0,1962360,North Carolina,Bartow High School,70,United States,2017,1
+242,Solomon Hill,03/18/91,6.594488188976378,225.0,13290395,Arizona,Fairfax High School,70,United States,2013,1
+243,Skal Labissiere,03/18/96,6.92257217847769,235.0,2338846,Kentucky,Reach Your Dreams Academy,70,Haiti,2016,1
+244,Abdel Nader,09/25/93,6.496062992125984,225.0,1618520,Iowa State,Niles North High School,70,United States / Egypt,2016,2
+245,Jordan Poole,06/19/99,6.430446194225722,195.0,1964760,Michigan,La Lumiere School,70,United States,2019,1
+246,Devonte Graham,02/22/95,6.167979002624672,185.0,1416852,Kansas,Broughton High School,69,United States,2018,2
+247,Isaac Bonga,11/08/99,6.66010498687664,180.0,1416852,,,68,Germany,2018,2
+248,Duncan Robinson,04/22/94,6.66010498687664,210.0,1416852,Michigan,Phillips Exeter Academy,67,United States,2018,0

@@ -2,7 +2,7 @@
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/QU9F4l
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
-CREATE TABLE "Players" (
+CREATE TABLE "players" (
     "player_id" INT   NOT NULL,
     "full_name" VARCHAR(50)   NOT NULL,
     "birthday" VARCHAR(10)   NOT NULL,
@@ -11,16 +11,16 @@ CREATE TABLE "Players" (
     "salary" FLOAT   NOT NULL,
     "college" VARCHAR(50),
     "high_school" VARCHAR(50),
-    "rating_2K20" INT   NOT NULL,
+    "videogame_rating" INT   NOT NULL,
     "nationality" VARCHAR(50)   NOT NULL,
     "draft_year" INT,
     "draft_peak" INT,
-    CONSTRAINT "pk_Players" PRIMARY KEY (
+    CONSTRAINT "pk_players" PRIMARY KEY (
         "player_id"
      )
 );
 
-CREATE TABLE "Statistics" (
+CREATE TABLE "player_statistics" (
     "player_id" INT   NOT NULL,
     "games_played" INT   NOT NULL,
     "minutes_played" FLOAT   NOT NULL,
@@ -39,34 +39,34 @@ CREATE TABLE "Statistics" (
     "steals" INT   NOT NULL,
     "blocks" INT   NOT NULL,
     "points" INT   NOT NULL,
-    CONSTRAINT "pk_Statistics" PRIMARY KEY (
+    CONSTRAINT "pk_player_statistics" PRIMARY KEY (
         "player_id"
      )
 );
 
-CREATE TABLE "Team_Players" (
+CREATE TABLE "team_players" (
     "team_id" INT   NOT NULL,
     "player_id" INT   NOT NULL,
     "position" VARCHAR(50)   NOT NULL,
     "jersey" VARCHAR(2)   NOT NULL,
-    CONSTRAINT "pk_Team_Players" PRIMARY KEY (
+    CONSTRAINT "pk_team_players" PRIMARY KEY (
         "team_id","player_id"
      )
 );
 
-CREATE TABLE "Teams" (
+CREATE TABLE "teams" (
     "team_id" INT   NOT NULL,
     "team_name" VARCHAR(50)   NOT NULL,
-    CONSTRAINT "pk_Teams" PRIMARY KEY (
+    CONSTRAINT "pk_teams" PRIMARY KEY (
         "team_id"
      )
 );
 
-ALTER TABLE "Statistics" ADD CONSTRAINT "fk_Statistics_player_id" FOREIGN KEY("player_id")
-REFERENCES "Players" ("player_id");
+ALTER TABLE "player_statistics" ADD CONSTRAINT "fk_player_statistics_player_id" FOREIGN KEY("player_id")
+REFERENCES "players" ("player_id");
 
-ALTER TABLE "Team_Players" ADD CONSTRAINT "fk_Team_Players_team_id" FOREIGN KEY("team_id")
-REFERENCES "Teams" ("team_id");
+ALTER TABLE "team_players" ADD CONSTRAINT "fk_team_players_team_id" FOREIGN KEY("team_id")
+REFERENCES "teams" ("team_id");
 
-ALTER TABLE "Team_Players" ADD CONSTRAINT "fk_Team_Players_player_id" FOREIGN KEY("player_id")
-REFERENCES "Players" ("player_id");
+ALTER TABLE "team_players" ADD CONSTRAINT "fk_team_players_player_id" FOREIGN KEY("player_id")
+REFERENCES "players" ("player_id");
