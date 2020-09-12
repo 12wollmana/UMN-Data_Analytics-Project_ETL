@@ -1,6 +1,4 @@
-# Paste this into quickdatabasediagrams.com
-
-Players
+players
 -
 player_id INT PK
 full_name VARCHAR(50)
@@ -10,13 +8,13 @@ weight_lbs FLOAT
 salary FLOAT
 college VARCHAR(50)
 high_school VARCHAR(50)
-rating_2K20 INT
+videogame_rating INT
 nationality VARCHAR(50)
 draft_year INT
 draft_peak INT
 
 
-Statistics
+player_statistics
 -
 player_id INT PK FK - Players.player_id
 games_played INT
@@ -37,14 +35,14 @@ steals INT
 blocks INT
 points INT
 
-Team_Players
+team_players
 -
 team_id INT PK FK >- Teams.team_id
 player_id INT PK FK - Players.player_id
 position VARCHAR(50)
 jersey VARCHAR(2)
 
-Teams
+teams
 -
 team_id INT PK
 team_name VARCHAR(50)

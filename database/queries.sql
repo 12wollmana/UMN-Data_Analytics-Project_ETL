@@ -34,7 +34,10 @@ select full_name, salary, draft_year, draft_peak
 from players
 where salary between 4000000 and 10000000;
 
--- Find teams that don't have a team.
+
+-- Find players that don't have a team.
+-- 30 is the team_id for "On Market", which
+-- means no team.
 select  players.player_id,
 		players.full_name,
 		teams.team_name,
@@ -46,4 +49,4 @@ from team_players
 		on (players.player_id = team_players.player_id)
 	join teams
 		on (team_players.team_id = teams.team_id)
-where teams.team_id = 147;
+where teams.team_id = 30;
