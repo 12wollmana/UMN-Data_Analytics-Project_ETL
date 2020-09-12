@@ -1,32 +1,32 @@
-team_id,team
+team_id,team_name
 0,Los Angeles Lakers
 1,Los Angeles Clippers
 2,Milwaukee Bucks
 3,Houston Rockets
-5,Portland Trail Blazers
-6,Philadelphia 76ers
-7,Denver Nuggets
-9,Minnesota Timberwolves
-10,Miami Heat
-11,Utah Jazz
-13,Boston Celtics
-14,Dallas Mavericks
-15,San Antonio Spurs
-16,Washington Wizards
-20,Toronto Raptors
-22,Sacramento Kings
-23,Phoenix Suns
-24,Cleveland Cavaliers
-25,Golden State Warriors
-26,New Orleans Pelicans
-27,Orlando Magic
-29,Atlanta Hawks
-34,Chicago Bulls
-37,Oklahoma City Thunder
-42,Indiana Pacers
-47,New York Knicks
-49,Brooklyn Nets
-59,Memphis Grizzlies
-61,Detroit Pistons
-104,Charlotte Hornets
-147,On Market
+4,Portland Trail Blazers
+5,Philadelphia 76ers
+6,Denver Nuggets
+7,Minnesota Timberwolves
+8,Miami Heat
+9,Utah Jazz
+10,Boston Celtics
+11,Dallas Mavericks
+12,San Antonio Spurs
+13,Washington Wizards
+14,Toronto Raptors
+15,Sacramento Kings
+16,Phoenix Suns
+17,Cleveland Cavaliers
+18,Golden State Warriors
+19,New Orleans Pelicans
+20,Orlando Magic
+21,Atlanta Hawks
+22,Chicago Bulls
+23,Oklahoma City Thunder
+24,Indiana Pacers
+25,New York Knicks
+26,Brooklyn Nets
+27,Memphis Grizzlies
+28,Detroit Pistons
+29,Charlotte Hornets
+30,On Market

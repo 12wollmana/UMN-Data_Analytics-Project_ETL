@@ -1,4 +1,4 @@
-player_id,full_name,birthday,height_ft,weight_lbs,salary,college,high_school,videogame_rating,nationality,draft_year,draft_round
+player_id,full_name,birthday,height_ft,weight_lbs,salary,college,high_school,videogame_rating,nationality,draft_year,draft_peak
 0,LeBron James,12/30/84,6.66010498687664,250.0,37436858,,St. Vincent St. Mary High School,97,United States,2003,1
 1,Kawhi Leonard,06/29/91,6.594488188976378,230.0,32742000,San Diego State,Martin Luther King High School,97,United States,2011,1
 2,Giannis Antetokounmpo,12/06/94,6.92257217847769,242.0,25842697,,,96,Greece / Nigeria,2013,1
