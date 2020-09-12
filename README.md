@@ -36,7 +36,7 @@ In order to create the database, follow these directions:
 </ol>
 
 Here is what the database should look like:
-![schema-diagram.png](database/schema-diagram.png)
+![[schema-diagram.png](database/schema-diagram.PNG)](database/schema-diagram.PNG)
 
 ## Extract - Transform - Load
 In [etl.ipynb](etl.ipynb), data is extracted from the csv files in [/data](/data), transformed to suit the database created above, and then is loaded into that database.
