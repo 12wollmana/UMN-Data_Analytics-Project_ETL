@@ -1,4 +1,4 @@
-player_id,games_played,minutes_played,field_goals_made,field_goals_attempts,three_points_made,three_points_attempts,free_throw_made,free_throw_attempts,turnovers,personal_fouls,offensive_rebounds,deffensive_rebounds,total_rebounds,assists,steals,blocks,points
+player_id,games_played,minutes_played,field_goals_made,field_goals_attempts,three_points_made,three_points_attempts,free_throws_made,free_throws_attempted,turnovers,personal_fouls,offensive_rebounds,defensive_rebounds,total_rebounds,assists,steals,blocks,points
 0,67,2316.3,643,1303,148,425,264,381,261,118,65,459,524,684,78,36,1698
 1,57,1848.2,532,1133,123,325,356,402,149,113,54,348,402,280,103,33,1543
 2,63,1916.9,685,1238,89,293,398,629,230,195,140,716,856,354,61,66,1857
