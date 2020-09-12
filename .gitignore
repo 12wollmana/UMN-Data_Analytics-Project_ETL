@@ -130,3 +130,5 @@ dmypy.json
 
 # User Added
 config.py
+.DS_Store
+*.icloud
