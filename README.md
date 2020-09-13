@@ -6,7 +6,18 @@ This project is to create a production database that contains both real-life and
 
 ## Prerequisites
 ### Configuration Files
-In order to run the code in this project, a <b>config.<span></span>py</b> file must be created by copying [config-template.py](config-template.py) and renaming it within the root directory. Replace the variables in the file with your PostgresSQL username and password.
+In order to run the code in this project, a <b>config.<span></span>py</b> file must be created by following these directions:
+<ol>
+	<li>
+	Make a copy of [config-template.py](config-template.py) in the root directory.
+	</li>
+	<li>
+	Rename this file to <b>config.<span></span>py</b>.
+	</li>
+	<li>
+	Edit the file, replacing the variable values with your PostgresSQL username and password.
+	</li>
+</ol>
 
 
 ### Create the Database
@@ -37,6 +48,8 @@ In order to create the database, follow these directions:
 
 Here is what the database should look like:
 ![[schema-diagram.png](database/schema-diagram.PNG)](database/schema-diagram.PNG)
+
+If something goes wrong and you need to redo these instructions, make sure to run <a href="database/drop_tables.sql">drop_tables.sql</a> before the above instructions so that the tables are cleared and deleted.
 
 ## Extract - Transform - Load
 In [etl.ipynb](etl.ipynb), data is extracted from the csv files in [/data](/data), transformed to suit the database created above, and then is loaded into that database.

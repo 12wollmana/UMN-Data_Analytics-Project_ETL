@@ -43,7 +43,6 @@ select  players.player_id,
 		teams.team_name,
 		players.salary,
 		team_players.position,
-		team_players.jersey,
 		teams.team_name
 from team_players
 	join players
